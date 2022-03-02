@@ -1,1 +1,16 @@
 theme: jekyll-theme-minimal
+# Site settings
+title: 陈巍谈芯
+SEOTitle: 陈巍谈芯
+header-img: 
+email: richard@163.com
+description: "test1"
+keyword: "人工智能, 芯片设计"
+url: "https://chenweiphd.github.io"          # your host, for absolute URL
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/chenweiphd/chenweiphd.github.io.git" # you code repository
+
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "test2"
+sidebar-avatar: /img/xxx.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
